@@ -46,11 +46,11 @@ Yaptığımız sıralamaya göre worst case O(n^2) olmaktadır.
 
 *Cevap*
 
-[2,3,5,8,7,9,4,15,6] (2 başa gitti 7 ile yer değişti)
+[2,3,5,8,7,9,4,15,6] (2 başa gitti 7 ile yer değiştirdi)
 
-[2,3,4,8,7,9,5,15,6] (3 zaten sıralıydı 4 ile 5 yer değişti)
+[2,3,4,8,7,9,5,15,6] (3 zaten sıralıydı 4 ile 5 yer değiştirdi)
 
-[2,3,4,5,7,9,8,15,6] (5 ile 8 yer değişti)
+[2,3,4,5,7,9,8,15,6] (5 ile 8 yer değiştirdi)
 
 [2,3,4,5,6,9,8,15,7] (5'ten sonraki en küçük 6 sıralandı ve 7 ile yer değiştirdi)
 
